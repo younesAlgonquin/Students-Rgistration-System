@@ -56,7 +56,7 @@ int **registrationTable;
  * register students or drop them from the offered courses 
  * 
  * Version: 1.0
- * Author/Student Name: Younes Boutaleb & Jeel  Patel
+ 
  **************************************************************************/
 
 int main()
